@@ -58,7 +58,7 @@ const MAX_FONT_SIZE = 50;
 const MIN_ANIM_DURATION = 2;
 const MAX_ANIM_DURATION = 5;
 
-const heartSymbols = ["❤️", "💖", "💜"];
+const heartSymbols = ["❤️", "💖", "💜", "💕", "😘", "😍"];
 
 const rainHearts = () => {
   setInterval(() => {
